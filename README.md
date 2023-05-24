@@ -18,6 +18,6 @@ pip install -r requirements.txt
 pip install <dependency_name>
 
 # Create requirements.txt
-pip3 freeze > requirements.txt
+pip freeze > requirements.txt
 ```
 
