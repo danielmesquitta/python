@@ -16,5 +16,8 @@ pip install -r requirements.txt
 
 # Install other dependencies
 pip install <dependency_name>
+
+# Create requirements.txt
+pip3 freeze > requirements.txt
 ```
 
