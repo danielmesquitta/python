@@ -5,6 +5,8 @@
 ```bash
 # Create virtual env
 python -m venv <my_virtual_env_folder_name>
+or
+virtualenv <my_virtual_env_folder_name>
 
 # Set the new virtual env as source
 source <my_virtual_env_folder_name>/bin/activate
